@@ -1,0 +1,4 @@
+{
+    "veracode-scan-language-client.trace.server": "verbose",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
