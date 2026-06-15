@@ -1,3 +1,1 @@
 Something
-WWW
-Whar
