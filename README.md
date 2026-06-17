@@ -1,2 +1,2 @@
 Adding new content
-Fixing
+Fixing the code
